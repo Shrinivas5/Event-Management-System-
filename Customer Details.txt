@@ -1,0 +1,10 @@
+*****IMPERIAL EVENT SOLUTIONS*****
+Customer Name: abc
+Customer Number: 4567891235
+Event Genre: Engagement
+Hall Capacity: Small (upto 100 guest)
+Schedule:- From: 2021/6/14 to 2021/6/16
+Time: 8
+No.Of Days: 3
+Total Package: 90000
+Advance Amount: 45000
